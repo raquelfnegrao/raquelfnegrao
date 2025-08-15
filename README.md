@@ -3,8 +3,8 @@
 ## Desenvolvedora Júnior
 
 - 📁 Me chamo **Raquel Fernandes Negrão Soares**, tenho 23 anos e sou mineira. 
-- 👩‍🎓 Tive meu primeiro contato com desenvolvimento no **curso técnico em informática no SENAC-MG**. Após realizar esse curso, **concluí o tecnológo em Análise e Desenvolvimento de Sistemas na PUC-MG**. 
-- 🚀 Sou **apaixonada por tecnologia** e compartilho **aqui alguns projetos pessoais**. Também possuo outra conta com **projetos academicos**`https://github.com/raquelfnegraos`
+- 👩‍🎓 Tive meu primeiro contato com desenvolvimento no **curso técnico em informática no SENAC-MG**. Após realizar esse curso, **fiz meu curso superior de tecnologia em Análise e Desenvolvimento de Sistemas na PUC-MG**. 
+- 🚀 Sou **apaixonada por tecnologia** e compartilho **aqui alguns projetos pessoais**. Também possuo outra conta com **projetos acadêmicos**`https://github.com/raquelfnegraos`
 
 ---
 
