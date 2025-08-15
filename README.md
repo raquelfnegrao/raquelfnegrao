@@ -5,14 +5,14 @@
 Me chamo Raquel Fernandes Negrão Soares, tenho 23 anos e sou de Minas Gerais. Tive meu primeiro contato com desenvolvimento no curso técnico em informática no SENAC-MG. Após realizar esse curso, concluí o tecnológo em Análise e Desenvolvimento de Sistemas na PUC-MG. Sou apaixonada por tecnologia e compartilho aqui alguns projetos pessoais. Também possuo outra conta com **projetos academicos****`[Meu GitHub da PUC-MG](https://github.com/raquelfnegrao)`**
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/raquelfnegrao?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/raquelfnegrao?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -83,35 +83,11 @@ Me chamo Raquel Fernandes Negrão Soares, tenho 23 anos e sou de Minas Gerais. T
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 
@@ -128,14 +104,6 @@ Me chamo Raquel Fernandes Negrão Soares, tenho 23 anos e sou de Minas Gerais. T
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
