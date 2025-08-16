@@ -4,7 +4,7 @@
 
 - 📁 Me chamo **Raquel Fernandes Negrão Soares**, tenho 23 anos e sou mineira. 
 - 👩‍🎓 Tive meu primeiro contato com desenvolvimento no **curso técnico em informática no SENAC-MG**. Depois, **concluí meu curso superior de tecnologia em Análise e Desenvolvimento de Sistemas na PUC-MG**. 
-- 🚀 Sou **apaixonada por tecnologia** e compartilho **aqui alguns projetos pessoais**. Também possuo outra conta com **projetos acadêmicos**`https://github.com/raquelfnegraos`
+- 🚀 Sou **apaixonada por tecnologia** e compartilho **aqui alguns projetos pessoais**. Também possuo outra conta com **projetos acadêmicos**`https://github.com/raquelfnegraos`. Atualmente estou buscando aprimorar meus conhecimentos em Angular, breve quero compartilhar um projeto desenvolvido com essa tecnologia!
 
 ---
 
