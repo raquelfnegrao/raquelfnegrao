@@ -60,11 +60,11 @@
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Node" 
+    title="Node"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg)" 
 />
 <img 
     align="left" 
