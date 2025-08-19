@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Raquel Negrão
 
-## Desenvolvedora Júnior
+## Desenvolvedora Júnior | JavaScript | React 
 
 - 📁 Me chamo **Raquel Fernandes Negrão Soares**, tenho 23 anos e sou mineira. 
 - 👩‍🎓 Tive meu primeiro contato com desenvolvimento no **curso técnico em informática no SENAC-MG**. Depois, **concluí meu curso superior de tecnologia em Análise e Desenvolvimento de Sistemas na PUC-MG**. 
